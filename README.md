@@ -1,5 +1,17 @@
 # Visualización de Datos - UOC - PEC 2
 
+---
+
+## Resumen
+
+- Line chart hecho con Tableau publicado en https://public.tableau.com/views/Caixabank-Linechart/Caixabank
+- Connected Scatterplots hecho con R
+- Circular dendrogram hecho con R
+
+En este repositorio, cada visualización tiene su carpeta correspondiente que incluye los conjuntos de datos en formato CSV. Para Connected Scatterplots y Circular Dendrogram estarán también los Rmd correspondientes y un HTML generado. En el caso del Line Chart, estará el twbx además de un HTML
+
+---
+
 ## Line chart - Acciones de Caixabank [Tableau]
 
 - Dataset: [Datos y cotizaciones históricas de acciones de CaixaBank](https://es.finance.yahoo.com/quote/CABK.MC/history?p=CABK.MC) de Yahoo Finance
